@@ -30,12 +30,11 @@ cd "Team Task Manager"
 # Setup Backend
 cd server
 npm install
-cp .env.example .env   # Fill in values from table below
+cp .env.example .env   
 npm run dev
 # Setup Frontend
 cd ../client
 npm install
-# Ensure .env has VITE_API_URL=http://localhost:5000/api
 npm run dev
 ```
 
