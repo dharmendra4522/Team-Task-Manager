@@ -44,7 +44,7 @@ npm run dev
 | MONGO_URI | MongoDB connection string (Local or Atlas) |
 | JWT_SECRET | Secret key for signing JWT tokens |
 | PORT | Backend port (default: 5000) |
-| CLIENT_URL | Frontend URL for CORS (e.g., http://localhost:5173) |
+| CLIENT_URL | Frontend URL for CORS https://renewed-comfort-production-80f1.up.railway.app/ |
 
 ## API Documentation
 
