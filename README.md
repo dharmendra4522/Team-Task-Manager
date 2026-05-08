@@ -86,10 +86,7 @@ npm run dev
 5. **Deploy both** and link the frontend domain to the backend's `CLIENT_URL`.
 
 ## Live URL
-[Deployed Link Here]
-
-## Demo Video
-[Demo Video Link Here]
+(https://renewed-comfort-production-80f1.up.railway.app/)
 
 ## License
 Distributed under the MIT License.
